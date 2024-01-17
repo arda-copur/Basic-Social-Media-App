@@ -5,7 +5,7 @@
 <h2>Screenshots:</h2>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-  <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/welcome_view.png" alt="project-screenshot" width="300" height="200"/>
+  <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/welcome_view.png" alt="project-screenshot" width="400" height="700"/>
 
   <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/register_view.png" alt="project-screenshot" width="370" height="700"/>
 
