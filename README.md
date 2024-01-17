@@ -30,7 +30,7 @@
 *   These accounts are saved in the Firestore
 *   Users can choose username and profile picture
 *   Users can post to recommend something to other users
-*   The content and photo of these shared posts and the person who shared them are recorded.
+*   The content and photo of these shared posts and the person who shared them are saved.
 *   Firebase's Firestore, Storage and Auth technologies are used.
 
 
