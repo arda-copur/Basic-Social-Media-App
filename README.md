@@ -1,6 +1,6 @@
 <h1 align="center" id="title">"önerio"</h1>
 
-<p id="description">This mobile application was created so that people can make suggestions to each other</p>
+<p id="description">This mobile application was created so that people can make suggestions to each other.</p>
 
 <h2>Screenshots:</h2>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
