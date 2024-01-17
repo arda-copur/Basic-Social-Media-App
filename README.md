@@ -2,7 +2,7 @@
 
 <p id="description">This mobile application was created so that people can make suggestions to each other.</p>
 
-<h2>Screenshots:</h2>
+<h2>Screenshots</h2>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
   <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/welcome_view.png" alt="project-screenshot" width="370" height="700"/>
