@@ -1,16 +1,47 @@
-# user_app
+<h1 align="center" id="title">"önerio"</h1>
 
-A new Flutter project.
+<p id="description">This mobile application has been developed as a car buying and selling platform.</p>
 
-## Getting Started
+<h2>Screenshots:</h2>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-This project is a starting point for a Flutter application.
+  <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/welcome_view.png" alt="project-screenshot" width="370" height="700"/>
 
-A few resources to get you started if this is your first Flutter project:
+  <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/register_view.png" alt="project-screenshot" width="370" height="700"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/login_view.png" alt="project-screenshot" width="370" height="700"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/add_status_view.png" alt="project-screenshot" width="370" height="700"/>
+
+  <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/home_view.png" alt="project-screenshot" width="370" height="700"/>
+
+  <img src="https://github.com/arda-copur/Basic-Social-Media-App/blob/main/ss/home_view2.png" alt="project-screenshot" width="370" height="700"/>
+
+
+
+</div>
+
+  
+  
+<h2>Features</h2>
+
+
+*   Users can create and log in with an account
+*   These accounts are saved in the Firestore
+*   Users can choose username and profile picture
+*   Users can post to recommend something to other users
+*   The content and photo of these shared posts and the person who shared them are recorded.
+*   Firebase's Firestore, Storage and Auth technologies are used.
+
+
+  
+<h2>Packages</h2>
+
+
+*   firebase_core
+*   firebase_auth
+*   firebase_storage
+*   cloud_firestore
+*   delightful_toast
+*   image_picker
+*   another_flutter_splash_screen
